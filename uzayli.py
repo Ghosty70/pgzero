@@ -270,4 +270,4 @@ def on_mouse_down(button, pos):
         fuzeler.append(fuze)
 
 
-#bir değişiklik yaptın
+#bir değişiklik yaptınf
