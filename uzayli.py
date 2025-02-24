@@ -268,3 +268,6 @@ def on_mouse_down(button, pos):
         fuze = Actor("füzeler")
         fuze.pos = gemi.pos
         fuzeler.append(fuze)
+
+
+#bir değişiklik yaptın
